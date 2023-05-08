@@ -10,7 +10,7 @@ Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar ness
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance) -->
 
 
- Front-end:
+* Front-end:
 
 <div>
 
@@ -20,7 +20,7 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 </div>
 
- back-end:
+* back-end:
 
 <div>
   
@@ -30,7 +30,7 @@ Mysql <img align="center" alt="antoio-mysql" height="30" width="40" src="https:/
 
 </div>
   
- Outros App/Sites de utilidades:
+* Outros App/Sites de utilidades:
 
 <div>
 
