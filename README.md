@@ -5,6 +5,8 @@ obs: Tela em desenvolvimento...
 - Maceió/Al, 21 anos, Solteiro.
 
 
+
+
 <!-- 
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance) -->
@@ -35,19 +37,21 @@ Mysql <img align="center" alt="antoio-mysql" height="30" width="40" src="https:/
 <div>
 
   Figma <img src'' alt='figma' >
-  Github <img src'' alt='figma' >
-  Cypress <img src'' alt='figma' >
+  Github <img src'' alt='github' >
+  Cypress <img src'' alt='cypresse' >
+  Postman <img src'' alt='postman' >
   
   </div>
 
 ##
  
  * Rede sociais
+
 <div>
   
+  <a href="https://api.whatsapp.com/message/O4I654ATQMPYE1?autoload=1&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/antoniovictor2k" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:avps2@aluno.ifal.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://github.com/antoniovictor2k" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/antonio-victor-pereira-severiano-0aa170169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
 </div>
