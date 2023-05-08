@@ -37,12 +37,10 @@ Mysql <img align="center" alt="antoio-mysql" height="30" width="40" src="https:/
 
 <div>
 
-  Figma 
-  
-  <img align="center" alt="antonio-React" height="30" width="40" src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png">
-  Github <img src'' alt='github' >
-  Cypress <img src'' alt='cypresse' >
-  Postman <img src'' alt='postman' >
+  Figma <img align="center" alt="antonio-React" height="30" width="40" src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png">
+  Github <img align="center" alt="antonio-React" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+  Cypress <img align="center" alt="antonio-React" height="30" width="40" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x512-zi8589rq.png">
+  Postman <img align="center" alt="antonio-React" height="30" width="40" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png">
   
   </div>
 
