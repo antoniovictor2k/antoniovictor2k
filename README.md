@@ -37,7 +37,7 @@ Mysql <img align="center" alt="antoio-mysql" height="30" width="40" src="https:/
 
 <div>
 
-  Figma <img src'' alt='figma' >
+  Figma <img align="center" alt="antonio-React" height="30" width="40" src'https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png' alt='figma' >
   Github <img src'' alt='github' >
   Cypress <img src'' alt='cypresse' >
   Postman <img src'' alt='postman' >
