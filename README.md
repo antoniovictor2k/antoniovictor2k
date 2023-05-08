@@ -7,7 +7,7 @@ obs: Tela em desenvolvimento...
 <div>
   
   ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=antoniovictor2k&show_icons=true&theme=dark#gh-dark-mode-only) 
-  ![](https://github-readme-stats.vercel.app/api/pin/?username=antoniovictor2k&repo=github-readme-stats)
+  ![Readme aqui](https://github-readme-stats.vercel.app/api/pin/?username=antoniovictor2k&repo=github-readme-stats)
   ![Linguagem mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniovictor2k&layout=compact&theme=dark)
 </div>
 <!-- 
