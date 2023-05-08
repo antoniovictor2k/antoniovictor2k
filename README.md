@@ -8,19 +8,16 @@ obs: Tela em desenvolvimento...
   
   ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=antoniovictor2k&show_icons=true&theme=dark#gh-dark-mode-only)     ![Linguagem mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniovictor2k&layout=compact&theme=dark)
 </div>
-<!-- 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance) -->
 
 
 * Front-end:
 
 <div>
-
   React-native <img align="center" alt="antonio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  HTML <img align="center" alt="antonio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  CSS <img align="center" alt="antonio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
+  HTML <img align="center" alt="antonio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  CSS <img align="center" alt="antonio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 * back-end:
@@ -28,21 +25,19 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 <div>
   
   Javascript <img align="center" alt="antonio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-Node <img align="center" alt="antoio-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-Mysql <img align="center" alt="antoio-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+
+  Node <img align="center" alt="antoio-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+
+  Mysql <img align="center" alt="antoio-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
 </div>
   
 * Outros App/Sites de utilidades:
 
 <div>
-
   Figma <img align="center" alt="antonio-React" height="30" width="30" src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png">
-  
   Github <img align="center" alt="antonio-React" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
-  
   Cypress <img align="center" alt="antonio-React" height="30" width="30" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x512-zi8589rq.png">
-  
   Postman <img align="center" alt="antonio-React" height="30" width="30" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png">
   
   </div>
