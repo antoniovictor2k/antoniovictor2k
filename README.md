@@ -37,6 +37,7 @@ obs: Tela em desenvolvimento...
 * Outros App/Sites de utilidades:
 
 <div>
+  
   Figma <img align="center" alt="antonio-React" height="30" width="30" src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png">
   
   Github <img align="center" alt="antonio-React" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
