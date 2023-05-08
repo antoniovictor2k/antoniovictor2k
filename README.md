@@ -8,7 +8,7 @@ obs: Tela em desenvolvimento...
   
   ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=antoniovictor2k&show_icons=true&theme=dark#gh-dark-mode-only)
 
- ![Linguagem mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniovictor2k&layout=compact)
+ ![Linguagem mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniovictor2k&layout=compact&theme=dark)
 </div>
 <!-- 
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
