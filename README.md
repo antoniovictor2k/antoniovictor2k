@@ -1,6 +1,6 @@
 obs: Tela em desenvolvimento...
 
-## Ola, eu sou Antonio Victor.
+## Dev Antonio Victor.
 - Estudante do IFAL Campus Rio Largo/AL, e desenvolvedor iniciante de programação.
 - Maceió/Al, 21 anos, Solteiro.
 
@@ -10,7 +10,7 @@ obs: Tela em desenvolvimento...
 </div>
 
 
-* Front-end:
+## Tecnologias: 
 
 <div>
   
@@ -20,11 +20,7 @@ obs: Tela em desenvolvimento...
   HTML <img align="center" alt="antonio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   CSS <img align="center" alt="antonio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
 
-* back-end:
-
-<div>
   
   Javascript <img align="center" alt="antonio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
@@ -32,11 +28,6 @@ obs: Tela em desenvolvimento...
 
   Mysql <img align="center" alt="antoio-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
-</div>
-  
-* Outros App/Sites de utilidades:
-
-<div>
   
   Figma <img align="center" alt="antonio-React" height="30" width="30" src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png">
   
