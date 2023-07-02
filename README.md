@@ -1,7 +1,8 @@
 obs: Tela em desenvolvimento...
 
-## Dev Antonio Victor.
-- Estudante do IFAL Campus Rio Largo/AL, e desenvolvedor iniciante de programação.
+## Dev Antonio Victor 
+- Estudante do IFAL Campus Rio Largo/AL.
+- Desenvolvedor Iniciante de Programação Web e Mobile.
 - Maceió/Al, 21 anos, Solteiro.
 
 <div>
@@ -13,30 +14,10 @@ obs: Tela em desenvolvimento...
 ## Tecnologias: 
 
 <div>
-  
-  React-native <img align="center" alt="antonio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-  
-  HTML <img align="center" alt="antonio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  CSS <img align="center" alt="antonio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  
-  Javascript <img align="center" alt="antonio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-  Node <img align="center" alt="antoio-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-
-  Mysql <img align="center" alt="antoio-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-
-  
+React-native <img align="center" alt="antonio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">HTML <img align="center" alt="antonio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">CSS <img align="center" alt="antonio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">Javascript <img align="center" alt="antonio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+Node <img align="center" alt="antoio-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">Mysql <img align="center" alt="antoio-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   Figma <img align="center" alt="antonio-React" height="30" width="30" src="https://w7.pngwing.com/pngs/431/965/png-transparent-figma-designer-computer-icons-material-design-design-rectangle-poster-logo.png">
-  
-  Github <img align="center" alt="antonio-React" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
-  
-  Cypress <img align="center" alt="antonio-React" height="30" width="30" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x512-zi8589rq.png">
-  
-  Postman <img align="center" alt="antonio-React" height="30" width="30" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png">
-  
+  Github <img align="center" alt="antonio-React" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">Cypress <img align="center" alt="antonio-React" height="30" width="30" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x512-zi8589rq.png">Postman <img align="center" alt="antonio-React" height="30" width="30" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png">
   </div>
 
 ##
