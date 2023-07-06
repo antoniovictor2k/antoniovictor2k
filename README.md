@@ -1,6 +1,4 @@
-obs: Tela em desenvolvimento...
-
-## Dev Antonio Victor 
+## Antonio Victor 
 - Estudante do IFAL Campus Rio Largo/AL.
 - Desenvolvedor junior de Programação Web e Mobile.
 - Maceió/Al, 21 anos, Solteiro.
