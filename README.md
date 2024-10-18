@@ -1,6 +1,6 @@
 ## Antonio Victor 
 - Sistema de Informação - Estacio FAL / Maceió AL
-- Ex Estudante do IFAL Campus Rio Largo/AL.
+- Ex-aluno do IFAL Campus Rio Largo/AL.
 - Desenvolvedor junior de Programação Web e Mobile.
 - Maceió/Al, 22 anos, Solteiro.
 
