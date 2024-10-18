@@ -1,7 +1,8 @@
 ## Antonio Victor 
-- Estudante do IFAL Campus Rio Largo/AL.
+- Sistema de Informação - Estacio FAL / Maceió AL
+- Ex Estudante do IFAL Campus Rio Largo/AL.
 - Desenvolvedor junior de Programação Web e Mobile.
-- Maceió/Al, 21 anos, Solteiro.
+- Maceió/Al, 22 anos, Solteiro.
 
 ### Conecte-se comigo
 
@@ -33,12 +34,12 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white">
   </div>
 
   ### Tecnologias em breve:
 
   <div>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Angular-ff0000?style=for-the-badge&logo=Angular&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white">
   </div>
