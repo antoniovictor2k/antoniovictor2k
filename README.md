@@ -18,7 +18,7 @@
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=antoniovictor2k&repo=AppTransporteAcademicoNoReactNative&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/antoniovictor2k/AppTransporteAcademicoNoReactNative)
 [![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=antoniovictor2k&repo=AplicativoSorteioFake&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/antoniovictor2k/AplicativoSorteioFake)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=LojaVtec&repo=api_whatsapp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/antoniovictor2k/LojaVtec)
+[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=antoniovictor2k&repo=LojaVtec&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/antoniovictor2k/LojaVtec)
 
 ### Tecnologias: 
 
