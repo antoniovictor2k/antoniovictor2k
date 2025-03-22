@@ -24,7 +24,7 @@
 [![App Transporte Acadêmico no React Native](https://github-readme-stats.vercel.app/api/pin/?username=antoniovictor2k&repo=AppTransporteAcademicoNoReactNative&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/antoniovictor2k/AppTransporteAcademicoNoReactNative)  
 [![Aplicativo Sorteio Fake](https://github-readme-stats.vercel.app/api/pin/?username=antoniovictor2k&repo=AplicativoSorteioFake&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/antoniovictor2k/AplicativoSorteioFake)  
 [![Loja Vtec](https://github-readme-stats.vercel.app/api/pin/?username=antoniovictor2k&repo=LojaVtec&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/antoniovictor2k/LojaVtec)
-[![Voice Command With Py](https://github-readme-stats.vercel.app/api/pin/?username=antoniovictor2k&repo=VoiceCommandPy&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/antoniovictor2k/VoiceCommandPy)
+[![Voice Command With Py](https://github-readme-stats.vercel.app/api/pin/?username=antoniovictor2k&repo=VoiceCommandPy&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/antoniovictor2k/VoiceCommandPy) 
 
 ---
 
