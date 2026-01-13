@@ -9,7 +9,7 @@
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de **Sistemas de Informação** no **Instituto Federal de Alagoas - Campus Maceió**
-- 💻 **Desenvolvedor Full Stack** em formação
+- 💻 **Desenvolvedor Front End** em formação
 - 🎯 Focado em desenvolvimento mobile e web
 - 📱 Experiência em desenvolvimento de aplicativos móveis
 - 🤝 Sempre disposto a colaborar em projetos interessantes
