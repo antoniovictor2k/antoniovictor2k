@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Antonio Victor Pereira Severiano
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30A3DC&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30A3DC&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front+End;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </div>
 
 ---
