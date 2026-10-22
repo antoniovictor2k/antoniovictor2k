@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou Antonio Victor Pereira Severiano</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30A3DC&center=true&vCenter=true&width=480&lines=Desenvolvedor+Front+End;Desenvolvedor+Mobile;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30A3DC&center=true&vCenter=true&width=480&lines=Desenvolvedor+Full+Stack;Web+%2B+Mobile;Flutter+%7C+React+Native+%7C+Node.js;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,12 +17,16 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de **Sistemas de Informação** no **Instituto Federal de Alagoas (IFAL) – Campus Maceió**
-- 💻 **Desenvolvedor Front End** em formação
-- 🎯 Focado em desenvolvimento **mobile** e **web**
-- 📱 Experiência em desenvolvimento de aplicativos móveis com **Flutter** e **React Native**
-- 🌱 Sempre aprendendo novas tecnologias e boas práticas
-- 🤝 Sempre disposto a colaborar em projetos interessantes
+Sou **Desenvolvedor Full Stack**, atuando do front ao back end em aplicações **web** e **mobile**. Gosto de transformar ideias em produtos completos: da interface ao banco de dados.
+
+| | |
+|---|---|
+| 💼 **Atuação** | Desenvolvedor Full Stack (Web e Mobile) |
+| 🎓 **Formação** | Bacharelado em Sistemas de Informação — IFAL, Campus Maceió *(em andamento)* |
+| 📱 **Mobile** | Aplicativos com Flutter e React Native |
+| 🌐 **Web** | Interfaces com HTML, CSS, JavaScript e Bootstrap |
+| ⚙️ **Back end** | APIs com Node.js, Express e Python; bancos MySQL, SQLite e MongoDB |
+| 🤝 **Interesses** | Sempre aprendendo e aberto a colaborar em projetos interessantes |
 
 ---
 
@@ -82,21 +86,15 @@
 
 ---
 
-## 🏆 Conquistas
+## 🐍 Contribuições
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=antoniovictor2k&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4)
-
-</div>
-
----
-
-## 📈 Atividade Recente
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=antoniovictor2k&bg_color=000000&color=30A3DC&line=E94D5F&point=FFFFFF&area=true&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/antoniovictor2k/antoniovictor2k/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/antoniovictor2k/antoniovictor2k/output/github-contribution-grid-snake.svg" />
+  <img alt="Gráfico de contribuições em forma de cobrinha" src="https://raw.githubusercontent.com/antoniovictor2k/antoniovictor2k/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
